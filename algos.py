@@ -15,7 +15,7 @@ ONE_MILLION = 1e6
 
 SMALL_ARRAY_TOLERANCE = 10
 
-LOG = logging.getLogger('GALAXY')
+LOG = logging.getLogger('ALGOS')
 
 
 def complexity_n(counts, data, verbose=False):

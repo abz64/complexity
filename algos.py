@@ -1,3 +1,7 @@
+"""
+Main module containing the algorithms undergoing analysis
+"""
+
 from collections import defaultdict
 from functools import partial
 from scipy import stats

@@ -1,3 +1,7 @@
+"""
+This module analyzes the better-than-n complexity implementation by fitting a function
+to a set of random samples.
+"""
 from scipy.optimize import curve_fit
 import numpy as np
 from sys import stdout
